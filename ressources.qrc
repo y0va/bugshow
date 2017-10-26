@@ -1,0 +1,12 @@
+<RCC>
+  <qresource prefix="logo">
+    <file>picture/uni_logo.gif</file>
+    <file>picture/ptble.jpg</file>
+    <file>picture/mini/insect_tap.png</file>
+    <file>picture/insecttap.png</file>
+  </qresource>
+  <qresource prefix="bug">
+    <file>picture/mini/Getreidekapuziner.png</file>
+    <file>picture/mini/Kornkaefer.png</file>
+  </qresource>
+</RCC>
