@@ -7,3 +7,5 @@ SWHarden: http://www.swharden.com/wp/2016-07-31-real-time-audio-monitor-with-pyq
 and   
 boylea: https://gist.github.com/boylea
 
+![bugshow](show.png)
+
